@@ -15,3 +15,5 @@ These scripts are posted here in interests of scientific rigor and analysis docu
 The PDF file “NP_net_predictions_20_regions_30_NP_pairs” is a 600 page document that displays one NP network adjacency matrix prediction for each of 20 regions of mouse isocortex and hippocampal formation and each of 30 NPP / cognate-NP-GPCR -aggregate pairs. It is a superset of the representative similar graphics dsiplayed on the poster.
 
 The PDF file "Microbibliography" is a categorized list of references to 50 publications relevant to the subject matter of the poster.
+
+The Volume EM renderings on the poster were generated using Neuroglancer (Maitin-Shepard, 2016: https://github.com/google/neuroglancer) to visualize MICrONS project volume EM data (MICrONS Consortium, 2023: https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3). Please visit the MICrONS project website (https://www.microns-explorer.org/) for an introduction to the procedures involved.
